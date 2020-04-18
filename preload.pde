@@ -1,0 +1,24 @@
+/* @pjs preload=
+"img/start1.jpg,
+ img/start2.jpg,
+ img/lose.jpg,
+ img/win.jpg,
+ img/restart.jpg,
+ img/ghost.png,
+ img/key.png,
+ img/fly.png,
+ img/finish.png,
+ img/grass.png,
+ img/grass1.png,
+ img/grass2.png,
+ img/advice.png,
+ img/5.0.png,
+ img/title2.png";
+font="font/word.ttf";
+sound="
+ sound/gameStart.wav,
+ sound/gameRun.wav,
+ sound/keyToken.wav,
+ sound/get.wav,
+ sound/die.mp3";
+*/
